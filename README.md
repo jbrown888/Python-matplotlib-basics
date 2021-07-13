@@ -1,5 +1,6 @@
 # Python-matplotlib-basics
 Some basics of formatting graphs with matplotlib in Python using the axes objects (rather than the plt.plot shortcut).
+The .py file is best used in Spyder but should work in general IDEs, the .ipynb file is for use in Jupyter notebooks.
 
 Covers legends, plotting, axes labels, formatting the grid, ticks, tick labels.
 Also color maps and sequential plotting, briefly mentions latex and f-strings, and a (very badly coded) 4 subplot figure.
